@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>3D To-Do App</title>
+  <link rel="stylesheet" href="SCT_WD_4.css">
+</head>
+<body>
+  <div class="container">
+    <h1>🌟  To-Do WEB-APP</h1>
+
+    <div class="card input-card">
+      <input type="text" id="taskInput" placeholder="What's your next task?">
+      <input type="datetime-local" id="taskDateTime">
+      <select id="priority">
+        <option value="low">🟢 Low</option>
+        <option value="medium" selected>🟡 Medium</option>
+        <option value="high">🔴 High</option>
+      </select>
+      <button onclick="addTask()">Add ➕</button>
+    </div>
+
+    <input type="text" id="searchInput" placeholder="🔍 Search tasks...">
+
+    <ul id="taskList"></ul>
+  </div>
+
+  <script src="SCT_WD_4.js"></script>
+</body>
+</html>
