@@ -1,57 +1,41 @@
-✅ To-Do Web App – SCT_WD_4
+# SCT_WD_4 - Interactive To-Do Web App | SkillCraft Technology
 
-Welcome to the To-Do Web Application developed under SkillCraft Technology!
-This project (SCT_WD_4) is a simple, clean, and fully responsive task management app built using HTML, CSS, and JavaScript. It's designed to help users stay organized and productive by managing daily tasks with ease.
+This project is a sleek, interactive **To-Do List Web Application** created using **HTML**, **CSS**, and **JavaScript**. It allows users to manage tasks efficiently with an intuitive UI, real-time updates, and local storage support.
 
-🧾 Description
+## ✅ Features
 
-The To-Do App allows users to add, edit, delete, and mark tasks as complete. It’s lightweight, intuitive, and perfect for personal task tracking or productivity practice. The app is entirely browser-based and doesn't require any backend.
+- 📝 Add, edit, and delete tasks instantly
+- 📅 Mark tasks as complete or pending
+- 💾 Persistent storage using `localStorage`
+- 🎨 Interactive UI with modern gradients and animations
+- 🔍 Filter tasks by status (All / Completed / Pending)
+- 🌙 Light and dark mode toggle
+- ⚡ Responsive design for mobile and desktop use
 
-🎯 Features
+## 🛠️ Technologies Used
 
-➕ Add New Tasks
-📝 Edit Existing Tasks
-✅ Mark Tasks as Completed
-❌ Delete Tasks
-📱 Responsive Design – Works on mobile and desktop
-🎨 Minimal & Clean UI
+- **HTML5**
+- **CSS3**
+- **JavaScript (ES6+)**
+- **localStorage API**
 
-📂 Technologies Used
+## 📁 File Info
 
-HTML – Structure of the app
-CSS – Styling and responsive layout
-JavaScript – Handles task logic and interactivity
+- **File Name:** `SCT_WD_4`
+- **Developer:** [Mohan8877](https://github.com/Mohan8877)
+- **Purpose:** Web-based task management app to demonstrate real-time interaction and storage features, developed as part of SkillCraft Technology.
 
-🚀 How to Use
+## 🚀 How to Use
 
-Clone the repository:
-git clone https://github.com/Mohan8877/SCT_WD_4.git
-Navigate into the project folder:
+1. Download or clone the repository.
+2. Open `index.html` in any modern browser.
+3. Add tasks and mark them as done or delete them.
+4. Tasks remain saved even after reloading the page!
 
+## 📌 Note
 
-cd SCT_WD_4
-Launch the app by opening SCT_WD_4.html in your browser:
+Ensure your browser allows local storage and JavaScript is enabled for full functionality.
 
-open SCT_WD_4.html  # or double-click the file
-Start adding and managing your tasks!
+---
 
-📸 Preview
-
-1.todoform.png
-2.todoform1.png
-
-
-🛠️ Future Enhancements
-
-Task filtering (All, Active, Completed)
-Save tasks to localStorage
-Dark mode toggle
-Due date and reminders
-User authentication (for persistent data)
-
-👨‍💻 Developed By
-
-SkillCraft Technology
-Project by Mohan8877
-Built to enhance productivity and demonstrate front-end development skills
-
+🛠️ Built by **Mohan8877** | SkillCraft Technology
